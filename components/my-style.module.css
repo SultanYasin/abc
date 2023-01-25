@@ -1,0 +1,10 @@
+.primaryBtn{
+    background-color: white;
+    color: blue;
+}
+.secondaryBtn{
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(28, 28, 49);
+   
+}
